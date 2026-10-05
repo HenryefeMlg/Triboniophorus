@@ -1,0 +1,191 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\henry\Desktop\stamina 2.vmf
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+**** leaked ****
+Entity info_player_start (128.00 2924.00 -4284.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5681 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 40 texinfos to 35
+Reduced 4 texdatas to 4 (94 bytes to 94)
+Writing C:\Users\henry\Desktop\stamina 2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\henry\desktop\stamina 2.bsp
+reading c:\users\henry\desktop\stamina 2.prt
+LoadPortals: couldn't read c:\users\henry\desktop\stamina 2.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading c:\users\henry\desktop\stamina 2.bsp
+No vis information, direct lighting only.
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0351 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (0)
+FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                 14/65535         168/786420   ( 0.0%) 
+brushsides             108/655350        864/5242800  ( 0.0%) 
+planes                 196/65536        3920/1310720  ( 0.3%) 
+vertexes              2350/65536       28200/786432   ( 3.6%) 
+nodes                  545/65536       17440/2097152  ( 0.8%) 
+texinfos                35/16384        2520/1179648  ( 0.2%) 
+texdata                  4/8192          128/262144   ( 0.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2125/65536      119000/3670016  ( 3.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               64/65536        3584/3670016  ( 0.1%) 
+leaves                 547/65536       17504/2097152  ( 0.8%) 
+leaffaces             2157/65536        4314/131072   ( 3.3%) 
+leafbrushes            174/65536         348/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             9165/512000      36660/2048000  ( 1.8%) 
+edges                 4626/256000      18504/1024000  ( 1.8%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             64/32768         640/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           795/65536        1590/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     4030220/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1095/4194304  ( 0.0%) 
+LDR ambient table      547/65536        2188/262144   ( 0.8%) 
+HDR ambient table      547/65536        2188/262144   ( 0.8%) 
+LDR leaf ambient       380/65536       10640/1835008  ( 0.6%) 
+HDR leaf ambient       547/65536       15316/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]          12/0        ( 0.0%) 
+static props          [variable]          12/0        ( 0.0%) 
+static prop count        0/16384           0/0        ( 0.0%) 
+pakfile               [variable]      105667/0        ( 0.0%) 
+physics               [variable]        5681/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4659
+Writing c:\users\henry\desktop\stamina 2.bsp
+0 seconds elapsed
+
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\henry\Desktop\Maps\stamina 2.vmx
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+**** leaked ****
+Entity logic_autosave (-128.00 -128.00 0.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12673 bytes)
+Error loading studio model STATIC ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error loading studio model ""!
+10
+Compacting texture/material tables...
+Reduced 105 texinfos to 71
+Reduced 6 texdatas to 5 (141 bytes to 122)
+Writing C:\Users\henry\Desktop\Maps\stamina 2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\henry\desktop\maps\stamina 2.bsp
+reading c:\users\henry\desktop\maps\stamina 2.prt
+LoadPortals: couldn't read c:\users\henry\desktop\maps\stamina 2.prt
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\henry\Desktop\Maps\stamina 2.vmx
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+**** leaked ****
+Entity logic_autosave (-128.00 -128.00 0.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12673 bytes)
+Error loading studio model STATIC ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error loading studio model ""!
+10
+Compacting texture/material tables...
+Reduced 105 texinfos to 71
+Reduced 6 texdatas to 5 (141 bytes to 122)
+Writing C:\Users\henry\Desktop\Maps\stamina 2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\henry\desktop\maps\stamina 2.bsp
+reading c:\users\henry\desktop\maps\stamina 2.prt
+LoadPortals: couldn't read c:\users\henry\desktop\maps\stamina 2.prt
