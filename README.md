@@ -1,2 +1,2 @@
 # Triboniophorus
-ololololollollololollololollllllllllllllllllll
+some of my important files.. im gona reset my pc because of an wallpaper engine bitcoin miner. goodbye, pc! 202-2026...
